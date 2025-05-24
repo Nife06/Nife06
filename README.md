@@ -1,8 +1,6 @@
-**Hello
+## **Hello**
 
-**Nife06/Nife06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Nife06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning python programming Language
 - 🤔 I’m seeking help to get a better grasp of the language.
