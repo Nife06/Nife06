@@ -11,6 +11,6 @@
 ## Contributors
 
 - **Oluwanifemi Olawoye** - [olawoyen@gmail.com](mailto:olawoyen@gmail.com)  
-- **Instructor: Mr.Mubarrak** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
+- **Instructor: Mr. Mubaraq Onipede** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
 
 
