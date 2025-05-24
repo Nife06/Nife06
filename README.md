@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love designing.
 
+## Contributors
+
+- **Oluwanifemi Olawoye** - [olawoyen@gmail.com](mailto:olawoyen@gmail.com)  
+- **Instructor: Mr.Mubarra ** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
+
+
