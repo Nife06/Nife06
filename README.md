@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## Contributors
 
 - **Oluwanifemi Olawoye** - [olawoyen@gmail.com](mailto:olawoyen@gmail.com)  
-- **Instructor: Mr.Mubarra ** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
+- **Instructor: Mr.Mubarrak** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
 
 
