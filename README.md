@@ -6,7 +6,7 @@
 - 🤔 I’m seeking help to get a better grasp of the language.
 - 📫 How to reach me: olawoyen@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love designing.
+- ⚡ Fun fact: I love designing and basketball.
 
 ## Contributors
 
